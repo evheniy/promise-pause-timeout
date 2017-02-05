@@ -1,7 +1,7 @@
 {
-  "name": "promise-timeout",
+  "name": "promise-pause-timeout",
   "description": "Promise timeout",
-  "repository": "evheniy/promise-timeout",
+  "repository": "evheniy/promise-pause-timeout",
   "version": "0.0.1",
   "scripts": {
     "test": "npm run security && npm run clear && npm run lint && npm run coverage",
@@ -19,7 +19,8 @@
     "timeout",
     "setTimeout",
     "async",
-    "await"
+    "await",
+    "pause"
   ],
   "files": [
     "index.js"
