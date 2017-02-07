@@ -4,6 +4,7 @@ Promise pause timeout
 It could be useful when you need to make pause in promise pipeline
 
 
+[![npm version](https://badge.fury.io/js/promise-pause-timeout.svg)](https://badge.fury.io/js/promise-pause-timeout)
 [![Build Status](https://travis-ci.org/evheniy/promise-pause-timeout.svg?branch=master)](https://travis-ci.org/evheniy/promise-pause-timeout)
 [![Coverage Status](https://coveralls.io/repos/github/evheniy/promise-pause-timeout/badge.svg?branch=master)](https://coveralls.io/github/evheniy/promise-pause-timeout?branch=master)
 
