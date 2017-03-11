@@ -1,3 +1,4 @@
 instrumentation:
   default-excludes: true
+  excludes: []
   include-all-sources: true
